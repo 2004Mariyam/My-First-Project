@@ -1,1 +1,1 @@
-("Hello!This is My first python script on Github.")
+("Hello!Welcome to my first python project.")
